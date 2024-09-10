@@ -1,18 +1,16 @@
 # Aarya Ashok K | 📍 Karnataka, India
 
-## Overview 🚀
+## Motivated Software Developer | DevOps Enthusiast | Web Technologies Expert
 
-👨‍💻 Integrated MTech student at VIT Vellore, specializing in C++, Java, and Python. 🌟 Achieving a stellar CGPA of 9.1, I've led impactful projects, including the Hotel Management System and Voice Recognition Library Management System. With a swift Kanban Task Management System delivery, I reflect a commitment to continuous learning.
+👨‍💻 Integrated MTech in Computer Science and Engineering at Vellore Institute of Technology, with a GPA of 8.96. My passion lies in software development, DevOps, automation testing, and system design, where I've honed my skills through internships, freelance projects, and academic work.
 
 ### 🔧 Skills
 
-- Python
-- C++
-- Java
-- AWS
-- Azure
-- Data Structures
-- Algorithms
+- Programming Languages: Python, Java, HTML, CSS, JavaScript
+- Version Control: Git, GitHub
+- Deep Learning Frameworks: NumPy, Pandas, PyTorch
+- Web Development Frameworks: AngularJS, NestJS, Django, AWS
+- Automation Testing: Katalon Studio
 
 ### 🌐 Portfolio
 
@@ -30,12 +28,13 @@ Reach out to me at: [aaryaashokk77@gmail.com](mailto:aaryaashokk77@gmail.com)
 
 ### 🏆 Achievements
 
-- Runner-up at CodeBlocked (VIT-Gravitas)
-- HackerRank 5-star in Python, C++, Java
-- LeetCode Rank: 1,828,987
+- Google AI Essentials (Sep 2024): Mastered generative AI for decision-making, task efficiency, and responsible AI use.
+- AWS Solutions Architecture Simulation (Aug 2024): Designed a scalable hosting architecture using Elastic Beanstalk.
+- JPMorgan Chase Software Engineering Simulation (Aug 2024): Developed a new class for the credit-card rewards system.
+- Yantra24 InnovationX Hackathon Co-organizer (Mar 2024): Organized a 300-participant event as part of the Advertising and Marketing Club.
 
 ### 🛠 Total Years of Experience
 
-3 years
+4 years
 
 Let's build the future together! 🌟
